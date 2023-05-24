@@ -20,7 +20,7 @@
     "title": "Efood",
     "linkVercel": "https://35-efood-exercicio.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/35-efood-exercicio",
-    "skills": "Syled Components, Type Script, React Router, React Redux",
+    "skills": "React Router, React Redux, Syled Components and Type Script",
     "cover": "https://servidor-estaticos-rose.vercel.app/efood.png"
   }
 ]
