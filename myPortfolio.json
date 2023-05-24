@@ -2,8 +2,8 @@
   {
     "id": 1,
     "title": "Product Landing Page",
-    "linkVercel": "#",
-    "linkGithub": "#",
+    "linkVercel": "",
+    "linkGithub": "",
     "skills": "HTML and CSS",
     "cover": "https://servidor-estaticos-rose.vercel.app/ProductLandingPage.png"
   },
@@ -12,47 +12,15 @@
     "title": "Van Life APP",
     "linkVercel": "https://fcc-react-router-dom.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "HTML, CSS, React and React Router",
+    "skills": "CSS, JavaScript and React Router",
     "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
   },
   {
     "id": 3,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
-  },
-  {
-    "id": 4,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
-  },
-  {
-    "id": 5,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
-  },
-  {
-    "id": 6,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
-  },
-  {
-    "id": 7,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
+    "title": "Efood",
+    "linkVercel": "https://35-efood-exercicio.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/35-efood-exercicio",
+    "skills": "Syled Components, Type Script, React Router, React Redux",
+    "cover": "https://servidor-estaticos-rose.vercel.app/efood.png"
   }
 ]
