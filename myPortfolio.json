@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "VanLife",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
+    "title": "Product Landing Page",
+    "linkVercel": "#",
+    "linkGithub": "#",
+    "skills": "HTML and CSS",
+    "cover": "https://servidor-estaticos-rose.vercel.app/ProductLandingPage.png"
   },
   {
     "id": 2,
