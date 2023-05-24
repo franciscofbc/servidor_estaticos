@@ -9,10 +9,10 @@
   },
   {
     "id": 2,
-    "title": "VanLife",
+    "title": "Van Life APP",
     "linkVercel": "https://fcc-react-router-dom.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "React Router",
+    "skills": "HTML, CSS, React and React Router",
     "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
   },
   {
