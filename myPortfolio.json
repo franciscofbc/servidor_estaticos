@@ -49,10 +49,10 @@
   },
   {
     "id": 7,
-    "title": "Another one",
-    "linkVercel": "",
-    "linkGithub": "",
-    "skills": "",
-    "cover": ""
+    "title": "Clone Disney+",
+    "linkVercel": "https://clone-disneyplus-sooty.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/clone_disneyplus",
+    "skills": "HTML, JavaScript, SASS",
+    "cover": "https://servidor-estaticos-rose.vercel.app/disney.png"
   }
 ]
