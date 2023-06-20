@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "title": "",
+    "title": "Contact List",
     "linkVercel": "https://32-exercicio-lista-de-contatos.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/32-exercicio-listaDeContatos",
     "skills": "Syled Components and TypeScript",
