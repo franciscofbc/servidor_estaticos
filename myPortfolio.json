@@ -38,5 +38,21 @@
     "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
     "skills": "React, CSS, TypeScript and Firebase",
     "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
+  },
+  {
+    "id": 6,
+    "title": "Eplay",
+    "linkVercel": "https://35-eplay.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/35-eplay",
+    "skills": "React Router, React Redux, Syled Components and TypeScript",
+    "cover": "https://servidor-estaticos-rose.vercel.app/eplay.png"
+  },
+  {
+    "id": 7,
+    "title": "Another one",
+    "linkVercel": "",
+    "linkGithub": "",
+    "skills": "",
+    "cover": ""
   }
 ]
