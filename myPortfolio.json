@@ -4,7 +4,7 @@
     "title": "Product Landing Page",
     "linkVercel": "",
     "linkGithub": "",
-    "skills": "HTML and CSS",
+    "skills": "CSS and HTML",
     "cover": "https://servidor-estaticos-rose.vercel.app/ProductLandingPage.png"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Post List",
     "linkVercel": "https://finalproject-youtubecourse.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
-    "skills": "React, CSS, TypeScript and Firebase",
+    "skills": "CSS, Firebase, React and TypeScript",
     "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
   },
   {
