@@ -30,5 +30,13 @@
     "linkGithub": "https://github.com/franciscofbc/32-exercicio-listaDeContatos",
     "skills": "Syled Components and TypeScript",
     "cover": "https://servidor-estaticos-rose.vercel.app/contactList.png"
+  },
+  {
+    "id": 5,
+    "title": "Post List",
+    "linkVercel": "https://finalproject-youtubecourse.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
+    "skills": "ReactJS, CSS, TypeScript and Firebase",
+    "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
   }
 ]
