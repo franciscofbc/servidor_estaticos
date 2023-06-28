@@ -9,22 +9,30 @@
   },
   {
     "id": 2,
-    "title": "Van Life APP",
-    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
-    "skills": "CSS, JavaScript and React Router",
-    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
+    "title": "Build a Survey Form",
+    "linkVercel": "https://builda-survey-form.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/BuildaSurveyForm",
+    "skills": "CSS and HTML",
+    "cover": "https://servidor-estaticos-rose.vercel.app/fccSurveyForm.png"
   },
   {
     "id": 3,
-    "title": "Efood",
-    "linkVercel": "https://35-efood-exercicio.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/35-efood-exercicio",
-    "skills": "React Router, React Redux, Syled Components and TypeScript",
-    "cover": "https://servidor-estaticos-rose.vercel.app/efood.png"
+    "title": "Build a Technical Documentation Page",
+    "linkVercel": "https://builda-technical-documentation-page.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/BuildaTechnicalDocumentationPage",
+    "skills": "CSS and HTML",
+    "cover": "https://servidor-estaticos-rose.vercel.app/fccTechnicalDocumentationPage.png"
   },
   {
     "id": 4,
+    "title": "Clone Disney+",
+    "linkVercel": "https://clone-disneyplus-sooty.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/clone_disneyplus",
+    "skills": "HTML, JavaScript, SASS",
+    "cover": "https://servidor-estaticos-rose.vercel.app/disney.png"
+  },
+  {
+    "id": 5,
     "title": "Contact List",
     "linkVercel": "https://32-exercicio-lista-de-contatos.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/32-exercicio-listaDeContatos",
@@ -32,15 +40,15 @@
     "cover": "https://servidor-estaticos-rose.vercel.app/contactList.png"
   },
   {
-    "id": 5,
-    "title": "Post List",
-    "linkVercel": "https://finalproject-youtubecourse.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
-    "skills": "CSS, Firebase, React and TypeScript",
-    "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
+    "id": 6,
+    "title": "Van Life APP",
+    "linkVercel": "https://fcc-react-router-dom.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/fcc-react-router-dom",
+    "skills": "CSS, JavaScript and React Router",
+    "cover": "https://servidor-estaticos-rose.vercel.app/coverVanLife.png"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Eplay",
     "linkVercel": "https://35-eplay.vercel.app/",
     "linkGithub": "https://github.com/franciscofbc/35-eplay",
@@ -48,11 +56,20 @@
     "cover": "https://servidor-estaticos-rose.vercel.app/eplay.png"
   },
   {
-    "id": 7,
-    "title": "Clone Disney+",
-    "linkVercel": "https://clone-disneyplus-sooty.vercel.app/",
-    "linkGithub": "https://github.com/franciscofbc/clone_disneyplus",
-    "skills": "HTML, JavaScript, SASS",
-    "cover": "https://servidor-estaticos-rose.vercel.app/disney.png"
+    "id": 8,
+    "title": "Efood",
+    "linkVercel": "https://35-efood-exercicio.vercel.app/",
+    "linkGithub": "https://github.com/franciscofbc/35-efood-exercicio",
+    "skills": "React Router, React Redux, Syled Components and TypeScript",
+    "cover": "https://servidor-estaticos-rose.vercel.app/efood.png"
   }
 ]
+
+// {
+//   "id": 5,
+//   "title": "Post List",
+//   "linkVercel": "https://finalproject-youtubecourse.vercel.app/",
+//   "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
+//   "skills": "CSS, Firebase, React and TypeScript",
+//   "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
+// },
