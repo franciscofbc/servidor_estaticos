@@ -64,12 +64,3 @@
     "cover": "https://servidor-estaticos-rose.vercel.app/efood.png"
   }
 ]
-
-// {
-//   "id": 5,
-//   "title": "Post List",
-//   "linkVercel": "https://finalproject-youtubecourse.vercel.app/",
-//   "linkGithub": "https://github.com/franciscofbc/finalproject-youtubecourse",
-//   "skills": "CSS, Firebase, React and TypeScript",
-//   "cover": "https://servidor-estaticos-rose.vercel.app/postList.png"
-// },
